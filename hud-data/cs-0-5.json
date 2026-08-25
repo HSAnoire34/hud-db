@@ -1,14 +1,34 @@
 {
   "name": "cs-0.5",
   "author": "lavaOnoes",
+  "flags": ["fonts", "menus", "scoreboards", "materials"],
+  "repo": "https://github.com/lavaOnoes/cs-0.5",
+  "hash": "6a1ae9585b3fa5bee1836894c8f33dbeba84f4f9",
+  "prerelease": false,
+  "resources": ["cs1", "cs2", "cs3"],
   "social": {
     "steam_profile": "76561198850021147",
-    "youtube": "@lavaOnoes",
-    "album": "https://imgur.com/a/ufBP4wH"
+    "youtube": "@lavaOnoes"
   },
-  "repo": "https://www.dropbox.com/s/3l5i32l5steol27/cs-0.5.7z?dl=1",
-  "githubAuthor": "lavaOnoes",
-  "hash": "",
-  "publishDate": "2022-08-02",
-  "resources": ["cs-0-5-banner"]
+  "traits": {
+    "os": ["windows", "linux"],
+    "gamemode": [
+      "tournament",
+      "comp",
+      "arena",
+      "ad",
+      "ctf",
+      "cp",
+      "halloween",
+      "koth",
+      "mannpower",
+      "mvm",
+      "pass",
+      "pl",
+      "plr"
+    ],
+    "res": ["4/3", "16/10", "16/9"],
+    "position": ["center"],
+    "lang": ["en"] 
+  }
 }
