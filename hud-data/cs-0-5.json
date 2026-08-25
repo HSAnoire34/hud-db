@@ -5,7 +5,7 @@
   "repo": "https://github.com/lavaOnoes/cs-0.5",
   "hash": "6a1ae9585b3fa5bee1836894c8f33dbeba84f4f9",
   "prerelease": false,
-  "resources": ["cs1", "cs2", "cs3"],
+  "resources": ["banner","cs1", "cs2", "cs3"],
   "social": {
     "steam_profile": "76561198850021147",
     "youtube": "@lavaOnoes"
