@@ -8,7 +8,8 @@
     "ChieveHUD-main",
     "ChieveHUD-mvm",
     "ChieveHUD-materials",
-    "ChieveHUD-loadout"
+    "ChieveHUD-loadout",
+	"ChieveHUD-banner"
   ],
   "flags": [
     "menus",
