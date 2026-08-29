@@ -5,11 +5,11 @@
   "releaseDate": "2026-08-28",
   "distinguishedFromParent": false,
   "resources": [
+	"ChieveHUD-banner",
     "ChieveHUD-main",
     "ChieveHUD-mvm",
     "ChieveHUD-materials",
-    "ChieveHUD-loadout",
-	"ChieveHUD-banner"
+    "ChieveHUD-loadout"
   ],
   "flags": [
     "menus",
