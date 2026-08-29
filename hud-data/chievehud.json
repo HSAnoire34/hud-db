@@ -1,0 +1,52 @@
+{
+  "name": "ChieveHUD",
+  "author": "Anoire",
+  "releaseDate": "2026-08-28",
+  "distinguishedFromParent": false,
+  "resources": [
+	"chievehud-banner",
+    "chievehud-main",
+    "chievehud-mvm",
+    "chievehud-loading",
+    "chievehud-materials",
+    "chievehud-loadout"
+  ],
+  "flags": [
+    "menus",
+    "scoreboards",
+    "streamer-mode",
+    "materials"
+  ],
+  "tags": [
+    "achievement"
+  ],
+  "repo": "https://github.com/HSAnoire34/ChieveHUD",
+  "hash": "182f4a6a53a5edf86ce039387b1c481d5507758e",
+  "prerelease": false,
+  "social": {
+    "steam_profile": "76561199071436464",
+    "twitter": "HSA346",
+    "youtube": "@hs43a",
+    "album": "https://imgur.com/gallery/chievehud-preview-CQKXCgc"
+  },
+  "traits": {
+    "os": [
+      "windows"
+    ],
+    "gamemode": [
+      "ad",
+      "ctf",
+      "cp",
+      "koth",
+      "mvm",
+      "pl",
+      "plr"
+    ],
+    "res": [
+      "16/9"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
