@@ -21,7 +21,7 @@
     "achievement"
   ],
   "repo": "https://github.com/HSAnoire34/ChieveHUD",
-  "hash": "182f4a6a53a5edf86ce039387b1c481d5507758e",
+  "hash": "06a170252ac207a2e7918b79c3ed1328aaca5631",
   "prerelease": false,
   "social": {
     "steam_profile": "76561199071436464",
@@ -43,7 +43,8 @@
       "plr"
     ],
     "res": [
-      "16/9"
+      "16/9",
+	  "4/3"
     ],
     "position": [
       "center"
